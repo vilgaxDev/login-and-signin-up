@@ -1,1 +1,6 @@
-## This is an Android Project based on Firebase, PHP & MySQL which communicates with the Internet via Google Volley Network Library.
+## Android Project with  Firebase, PHP & MySQL and  communicates with the Internet via Google Volley Network Library.
+
+## tools used  Android studio, Xamp and Visual studio code
+ 
+
+
